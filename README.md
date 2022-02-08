@@ -11,3 +11,7 @@ NAME  | STUDENT ID
 
 It is a part of our Semester Assessment for Database Management Systems (DBMS). 
 _It is going to cover all the needful and essential concepts of a fundamental DBMS!_
+
+### ER-Diagram- <br/><br/>
+
+![project-dbms drawio](https://user-images.githubusercontent.com/80956033/153048690-365c6d16-ea97-4dcb-a5d6-3e4a2dd65d32.png)
